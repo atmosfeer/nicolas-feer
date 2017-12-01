@@ -1,1 +1,8 @@
-// Specific CSS for your home-page
+.page-wrapper {
+  background-color: #16a085;
+  color: white;
+  height: calc(100vh - 70px);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
